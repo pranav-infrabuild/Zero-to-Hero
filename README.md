@@ -14,25 +14,3 @@
 
 Welcome to the **DevOps Interview Preparation Repository** 💡  
 This repo is designed to help you crack DevOps interviews from **basic to advanced level**.
-
-
-
----
-
-## 💬 HR Interview Questions
-
-<div align="center">
-
-### 1. How many years of experience do you have?
-
-</div>
-
----
-
-### ✅ Answer:
-
-> I have **X years of experience** with **[Company Name]**.  
-> Overall, I have **X years of experience in the DevOps domain**.  
-> I have been working in this domain **since the beginning of my career**.
-
-
