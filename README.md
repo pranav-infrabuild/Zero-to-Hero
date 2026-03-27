@@ -19,20 +19,20 @@ This repo is designed to help you crack interviews from **basic to advanced leve
 ## 📘 🚀 COMPLETE INTERVIEW PREPARATION GUIDE
 
 ### 📝 Resume Preparation
-![Resume](https://img.shields.io/badge/Resume_Preparation-White?style=for-the-badge&color=white&labelColor=white&logoColor=black)
-[![Click Here](https://img.shields.io/badge/Click_Here-Red?style=for-the-badge&color=red)](https://github.com/pranav-infrabuild/Zero-to-Hero/blob/main/1.ResumePrep/ResumePreparation.md)
-[![Click Here](https://img.shields.io/badge/Template-Red?style=for-the-badge&color=0000FF)](https://github.com/pranav-infrabuild/Zero-to-Hero/blob/main/1.ResumePrep/DevopsTemplate.docx)
+![Resume](https://img.shields.io/badge/Resume_Preparation_👉-White?style=for-the-badge&color=white&labelColor=white&logoColor=black)
+[![Click Here](https://img.shields.io/badge/Click_Here-Red?style=for-the-badge&color=FF0000)](https://github.com/pranav-infrabuild/Zero-to-Hero/blob/main/1.ResumePrep/ResumePreparation.md) &
+[![Click Here](https://img.shields.io/badge/Download_Resume_Template-Red?style=for-the-badge&color=15004F)](https://github.com/pranav-infrabuild/Zero-to-Hero/blob/main/1.ResumePrep/DevopsTemplate.docx)
 ---
 
 ### 💬 HR Interview Preparation
-![HR](https://img.shields.io/badge/HR_Interview_Preparation-White?style=for-the-badge&color=white&labelColor=white&logoColor=black)
-[![Click Here](https://img.shields.io/badge/Click_Here-Red?style=for-the-badge&color=red)](https://github.com/pranav-infrabuild/Zero-to-Hero/blob/main/2.HrPrep/HrPrep.md)
+![HR](https://img.shields.io/badge/HR_Interview_Preparation_👉-White?style=for-the-badge&color=white&labelColor=white&logoColor=black)
+[![Click Here](https://img.shields.io/badge/Click_Here-Red?style=for-the-badge&color=FF0000)](https://github.com/pranav-infrabuild/Zero-to-Hero/blob/main/2.HrPrep/HrPrep.md)
 
 ---
 
 ### 💻 Technical Preparation
-![Technical](https://img.shields.io/badge/Technical_Preparation-White?style=for-the-badge&color=white&labelColor=white&logoColor=black)
-[![Click Here](https://img.shields.io/badge/Click_Here-Red?style=for-the-badge&color=red)](https://github.com/pranav-infrabuild/Zero-to-Hero/blob/main/3.TechinalPreparation/TechinalPreparation.md)
+![Technical](https://img.shields.io/badge/Technical_Preparation_👉-White?style=for-the-badge&color=white&labelColor=white&logoColor=black)
+[![Click Here](https://img.shields.io/badge/Click_Here-Red?style=for-the-badge&color=FF0000)](https://github.com/pranav-infrabuild/Zero-to-Hero/blob/main/3.TechinalPreparation/TechinalPreparation.md)
 
 ---
 
