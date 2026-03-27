@@ -21,7 +21,7 @@ This repo is designed to help you crack interviews from **basic to advanced leve
 ### 📝 Resume Preparation
 ![Resume](https://img.shields.io/badge/Resume_Preparation-White?style=for-the-badge&color=white&labelColor=white&logoColor=black)
 [![Click Here](https://img.shields.io/badge/Click_Here-Red?style=for-the-badge&color=red)](https://github.com/pranav-infrabuild/Zero-to-Hero/blob/main/1.ResumePrep/ResumePreparation.md)
-
+[![Click Here](https://img.shields.io/badge/Template-Red?style=for-the-badge&color=0000FF)](https://github.com/pranav-infrabuild/Zero-to-Hero/blob/main/1.ResumePrep/DevopsTemplate.docx)
 ---
 
 ### 💬 HR Interview Preparation
