@@ -57,3 +57,21 @@ To install and manage packages, I use **APT (Advanced Package Tool)**.
 </details>
 
 ---
+
+### 5. Tell me about yourself / Introduction ❓
+<details>
+<summary>👉 Click to view answer</summary>
+
+Hi, my name is XYZ. I completed my Bachelor’s degree in Mechanical Engineering from **Savitribai Phule Pune University** with First Class Distinction.
+
+Currently, I am based in Hinjewadi, Pune. I joined [Company Name] in 2021, and since then I have been working as a DevOps Engineer.
+
+During this time, I have worked on major projects, including a core Azure DevOps project where I gained hands-on experience with tools and technologies such as Git, Linux, Docker, Kubernetes, Helm, Prometheus, and Grafana.
+
+Talking about my achievements, I have completed certifications like [Certification Names].
+
+At present, I am continuously upskilling myself and looking forward to contributing my best to the organization and delivering value to clients.
+
+Thank you.
+
+</details>
