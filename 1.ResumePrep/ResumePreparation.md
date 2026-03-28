@@ -8,12 +8,19 @@
 </p>
 
 ---
-## 💻 Resume Preparation
+### 💻 Resume Preparation
+
 ---
 
-### While creating a resume, follow these tips:
+### ✅ Follow these tips while creating your resume:
 ##
-**1⃣ Use an ATS-friendly template**.  
+
+### 1️⃣ Use an ATS-friendly template  
+Recruiters use Applicant Tracking Systems (ATS) to filter resumes. Make sure your resume is clean and keyword-optimized.
+
+👉 **Download Template:**  
+[![Download Resume Template](https://img.shields.io/badge/Template-Download-blue?style=for-the-badge)](https://github.com/pranav-infrabuild/Zero-to-Hero/blob/main/1.ResumePrep/DevopsTemplate.docx)
+
 **2⃣ include as many relevant job-role keywords as possible**.
 
 ---
